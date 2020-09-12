@@ -46,6 +46,5 @@ class RegisterActivity : AppCompatActivity() {
             edt_password.requestFocus()
             return
         }
-
     }
 }
